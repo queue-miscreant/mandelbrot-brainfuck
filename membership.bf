@@ -3,7 +3,7 @@ membership: test membership of a point in the set after three iterations
 	negative
 +>
 	one
-+>
+>
 	point 5
 ++++++++>
 	plus i times

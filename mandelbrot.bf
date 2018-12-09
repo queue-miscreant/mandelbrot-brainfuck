@@ -195,7 +195,7 @@ Real part
 [->>>>>>>>>+<<<<<<<<<]>>>>>>>>>
 	if the sign is 1; move the number into the minus register and duplicate it back
 [-<<<<<<<<<+>>>>>>>>>>[->>>>>>>>>>>>+<<<<<<<<<<<<]<]>
-	otherwise, move into the plus register
+	otherwise move into the plus register
 [->>>>>>>>>>+<<<<<<<<<<]
 
 >>>>>>>>>+>>>

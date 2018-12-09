@@ -49,7 +49,7 @@ three iterations left
 		move them to their 'registers'
 	<<[->>>>+>>>>>>>>+>+<<<<<<<<<<<<<]>>>[->>+>>>>>>>+>>>+<<<<<<<<<<<<]
 
-
+!
 
 	multiply fr and fi
 	>>[-<[->>+>+<<<]>>[-<<+>>]<]
@@ -82,6 +82,7 @@ three iterations left
 		remove the sum of fr and fi and replace with a balance
 	<[-]
 
+!
 there's still some fi here from earlier
 <<<<[-<++>]<<<<[-]
 at si
@@ -125,6 +126,7 @@ go to the sign we just calculated
 >[-<<<<---------------->>>>]<<<-
 
 	ended in the cell immediately past storage registers
+!
 <<<<<<<<<<<<<
 
 Real part
