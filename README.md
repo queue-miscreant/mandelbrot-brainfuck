@@ -8,7 +8,7 @@ Implemented on 1 byte-sized cells.
 
 Number of Iterations
 --------------------
-By default, the program uses 3 iterations to generate an image of the set.
+By default, the program uses 9 iterations to generate an image of the set.
 To get a sharper image (well, as sharp as you can when you're using 
 test points every 1/16th), try adding more '+' commands in the 'mandelbrot'
 file where it says "number of iterations" next to 3 '+'s. (line 18)
